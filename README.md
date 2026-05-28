@@ -1,50 +1,30 @@
-# Fernando Soto — ML/AI Engineer
+# Fernando Soto
 
-**MSc Artificial Intelligence — Universidad San Francisco de Quito (2026)**
+Software Engineer at Thoughtworks · MSc Artificial Intelligence, USFQ (2026) · Quito, Ecuador
 
-I build ML systems for real problems. Currently writing my masters thesis on algorithmic auditing of TikToks recommendations and their psychological impact on Spanish-speaking youth.
+I work on NLP applied to social media auditing and economic forecasting. My current research combines news text with macroeconomic data to predict country risk in Ecuador, and audits TikTok's recommendation algorithm to measure psychological risk in content served to young users.
 
 ---
 
-## What I do
+## Research
 
-- **NLP & Recommender Systems Auditing** — algorithmic transparency, bias detection, social impact
-- **Production ML** — feature engineering, model evaluation, explainability (SHAP)
-- **LLM Systems** — RAG pipelines, multi-agent orchestration, evaluation frameworks
+**USFQ Data Hub — Country Risk Perception**  
+NLP on Ecuadorian news media combined with macroeconomic time series (EMBI, CPI, employment, trade flows) to predict country risk perception using ML. In progress.
+
+**TikTok Algorithmic Auditing** — MSc thesis  
+Sock puppet methodology with custom metrics (SFH, CWR, PSI, AV) to audit TikTok's FYP and assess psychological risk of recommended content for Spanish-speaking youth. 2 papers in preparation.
 
 ---
 
 ## Projects
 
-### Thesis Research (2-phase pipeline)
-
 | Project | What it does | Stack |
-|---------|-------------|-------|
-| [**tiktok-fyp-auditor**](https://github.com/ferjozsot23/tiktok-fyp-auditor) | Data collection: Playwright FYP scraping via sock puppets + Whisper large-v3 transcription. 470 videos collected. | Python · Playwright · Whisper · yt-dlp |
-| [**tiktok-psych-risk-classifier**](https://github.com/ferjozsot23/tiktok-psych-risk-classifier) | Risk classification: Spanish BERT (BETO) binary classifier. RepeatedStratifiedKFold 5×5 + Wilcoxon test. SVM F1=0.764 (+0.20 over baseline). | Python · PyTorch · BETO · scikit-learn |
-
-### Other Projects
-
-| Project | What it does | Stack |
-|---------|-------------|-------|
-| [**agentic-graphrag**](https://github.com/ferjozsot23/agentic-graphrag) | GraphRAG with knowledge graphs: 3-agent pipeline (Retrieval/Answer/Graph) combining ChromaDB + NetworkX. Custom LLM-as-judge evaluation. | Python · OpenAI · ChromaDB · NetworkX |
-| [**merchant-churn-predictor**](https://github.com/ferjozsot23/merchant-churn-predictor) | XGBoost churn model with temporal features + SHAP explainability + React dashboard. Built in 48h (Interact2Hack 2026). | Python · XGBoost · SHAP · React |
+|---|---|---|
+| [tiktok-fyp-auditor](https://github.com/ferjozsot23/tiktok-fyp-auditor) | FYP data collection via sock puppet accounts. Playwright automation + Whisper large-v3 transcription. 470 videos collected. | Python · Playwright · Whisper |
+| [tiktok-psych-risk-classifier](https://github.com/ferjozsot23/tiktok-psych-risk-classifier) | Binary risk classifier on video transcripts. BETO embeddings, RepeatedStratifiedKFold 5×5, Wilcoxon testing. SVM F1 = 0.764. | Python · BETO · scikit-learn |
+| [agentic-graphrag](https://github.com/ferjozsot23/agentic-graphrag) | Three-agent GraphRAG pipeline with ChromaDB + NetworkX and custom LLM-as-judge evaluation. | Python · OpenAI · ChromaDB |
+| [merchant-churn-predictor](https://github.com/ferjozsot23/merchant-churn-predictor) | XGBoost churn model with SHAP explainability and React dashboard. Built in 48h at Interact2Hack 2026. | Python · XGBoost · React |
 
 ---
 
-## Currently
-
-- 📚 Writing MSc thesis on TikTok algorithmic auditing (USFQ)
-- 💼 Software engineer at Thoughtworks
-- 🎓 AWS GenAI Professional certification (in progress)
-- 🎯 Applying to ATHNLP 2026 (Athens NLP Summer School)
-
----
-
-## Interests
-
-NLP · Multilingual language models (Spanish) · Algorithmic auditing · Research ethics · Applied LLMs for social impact
-
----
-
-📧 [nandojozesoto@gmail.com](mailto:nandojozesoto@gmail.com) · 📍 Quito, Ecuador — **Open to remote ML/AI roles** (US-compatible timezones)
+nandojozesoto@gmail.com · Open to remote ML/AI roles
