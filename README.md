@@ -1,4 +1,4 @@
-# Fernando Soto
+# Fernando Soto / ML·AI Engineer
 
 Software Engineer at Thoughtworks · MSc Artificial Intelligence, USFQ (2026) · Quito, Ecuador
 
