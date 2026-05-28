@@ -39,4 +39,4 @@ NLP · Multilingual language models (especially Spanish) · Algorithmic auditing
 
 ---
 
-📧 [nandojozesoto@gmail.com](mailto:nandojozesoto@gmail.com) · 📍 Quito, Ecuador — open to remote ML/AI roles compatible with US timezones.
+📧 [nandojozesoto@gmail.com](mailto:nandojozesoto@gmail.com) · 📍 Quito, Ecuador — **open to remote ML/AI roles** (US timezones)
