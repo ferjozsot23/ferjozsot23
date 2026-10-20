@@ -1,17 +1,17 @@
-# Fernando Soto / ML·AI Engineer
+# Fernando Soto / Software Engineer · Applied AI & ML
 
-Developer at Thoughtworks · MSc Artificial Intelligence, USFQ (expected 2027) · Quito, Ecuador
+Developer at Thoughtworks (~3 years building production backend services on AWS) · MSc Artificial Intelligence, USFQ (expected 2027, GPA 4.0) · Quito, Ecuador
 
-I work on NLP applied to social media auditing and economic forecasting. My current research combines news text with macroeconomic data to predict country risk in Ecuador, and audits TikTok's recommendation algorithm to measure psychological risk in content served to young users.
+I build LLM applications with RAG, vector search (FAISS, BGE-M3), LangGraph agents and rigorous evaluation (RAGAS, Cohen's kappa), and apply NLP to economic forecasting and algorithmic auditing of social media. Python, PyTorch, AWS, CI/CD.
 
 ---
 
 ## Research
 
-**USFQ Data Hub — Country Risk Perception**  
+**USFQ Data Hub · Country Risk Perception**  
 NLP pipeline (BGE-M3, BERTopic) turning Ecuadorian news into topic and semantic-volatility features, combined with macroeconomic time series (EMBI, CPI, employment, trade flows) to forecast country risk. In progress.
 
-**TikTok Algorithmic Auditing** — MSc thesis  
+**TikTok Algorithmic Auditing** · MSc thesis  
 Sock puppet methodology with custom metrics (SFH, CWR, PSI, AV) to audit TikTok's FYP and assess psychological risk of recommended content for Spanish-speaking youth. LLM risk assessments evaluated against expert labels (Cohen's kappa).
 
 ---
