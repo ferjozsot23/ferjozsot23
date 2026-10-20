@@ -1,5 +1,7 @@
 # Fernando Soto / Applied ML & AI Engineer
 
+Based in Quito (UTC-5, same hours as US Eastern). Open to remote ML/AI roles. nandojozesoto@gmail.com
+
 MSc Artificial Intelligence, USFQ (expected 2027, GPA 4.0). Software developer at Thoughtworks with ~3 years building production backend services on AWS. Quito, Ecuador.
 
 I build applied ML and LLM systems: RAG, vector search (FAISS, BGE-M3), LangGraph agents and rigorous evaluation (RAGAS, Cohen's kappa), and apply NLP to economic forecasting and algorithmic auditing of social media. Python, PyTorch, AWS, CI/CD.
@@ -31,5 +33,3 @@ Sock puppet methodology with custom metrics (SFH, CWR, PSI, AV) to audit TikTok'
 ---
 
 AWS Certified AI Practitioner, Google Professional Cloud Developer
-
-Open to remote ML/AI roles: nandojozesoto@gmail.com
