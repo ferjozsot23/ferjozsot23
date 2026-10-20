@@ -30,4 +30,6 @@ Sock puppet methodology with custom metrics (SFH, CWR, PSI, AV) to audit TikTok'
 
 ---
 
+AWS Certified AI Practitioner · Google Professional Cloud Developer
+
 nandojozesoto@gmail.com · Open to remote ML/AI roles
