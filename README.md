@@ -24,6 +24,9 @@ Sock puppet methodology with custom metrics (SFH, CWR, PSI, AV) to audit TikTok'
 | [tiktok-psych-risk-classifier](https://github.com/ferjozsot23/tiktok-psych-risk-classifier) | Binary risk classifier on video transcripts. BETO embeddings, RepeatedStratifiedKFold 5×5, Wilcoxon testing. SVM F1 = 0.764. | Python · BETO · scikit-learn |
 | [agentic-graphrag](https://github.com/ferjozsot23/agentic-graphrag) | Three-agent GraphRAG pipeline with ChromaDB + NetworkX and custom LLM-as-judge evaluation. | Python · OpenAI · ChromaDB |
 | [merchant-churn-predictor](https://github.com/ferjozsot23/merchant-churn-predictor) | XGBoost churn model with SHAP explainability and React dashboard. Built in 48h at Interact2Hack 2026. | Python · XGBoost · React |
+| [ablation-rag](https://github.com/ferjozsot23/ablation-rag) | Ablation of 5 RAG architectures (BM25 to LangGraph agent) over SEC 10-K/10-Q filings, with LLM-validated ground truth, RAGAS metrics and cost analysis. IEEE-format paper. | Python · LangGraph · BGE-M3 · FAISS · RAGAS |
+| [hateval-beto-finetuning](https://github.com/ferjozsot23/hateval-beto-finetuning) | Progressive layer-freezing study of BETO for Spanish hate speech detection. Test accuracy 0.83, embedding separability via t-SNE/silhouette. IEEE-format paper. | Python · PyTorch · Transformers · scikit-learn |
+| [sam2-transfer-learning](https://github.com/ferjozsot23/sam2-transfer-learning) | SAM 2 encoder + FPN head for semantic segmentation. mIoU 0.60 (+0.14 over a from-scratch U-Net), 113 logged runs, cross-validation by track. Paper. | Python · PyTorch · SAM 2 |
 
 ---
 
